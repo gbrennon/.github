@@ -17,7 +17,7 @@ The forge stays lit through code, caffeine, and tribute cast into the green abys
 
 If you find utility in these tools—from low-level Rust runtimes to
 architectural frameworks—consider tossing fuel into the furnace through the
-**Sponsor** button above.
+**Sponsor** button.
 
 > **Transmission upon tribute:**
 >
