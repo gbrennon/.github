@@ -38,4 +38,6 @@ For the blog, projects, and audio-visual references:
 [gbrennon.is-a.dev](https://gbrennon.is-a.dev/)
 
 It is where the architecture goes to explain itself.
-The blog is mostly harmless. Probably.
+The blog is mostly harmless...
+
+Probably.
