@@ -29,3 +29,13 @@ architectural frameworks—consider tossing fuel into the furnace through the
 > another cycle.*
 >
 > *The machine stirs, reality bends, and the Loc-Nar is pleased. Walk carefully in the dark.*
+
+---
+
+### Bear the Mark of the Forge
+
+For the blog, projects, and audio-visual references:
+[gbrennon.is-a.dev](https://gbrennon.is-a.dev/)
+
+It is where the architecture goes to explain itself.
+The blog is mostly harmless. Probably.
